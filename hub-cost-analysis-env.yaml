@@ -1,0 +1,11 @@
+name: hub-cost-analysis-env
+channels:
+  - conda-forge
+dependencies:
+  - python=3.7
+  - pandas
+  - matplotlib
+  - seaborn
+  - numpy
+  - jupyterlab
+  - nodejs
