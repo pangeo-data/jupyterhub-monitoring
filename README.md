@@ -20,3 +20,11 @@ transformation, and plotting.
 
 There is also a provided `conda` environment that can be used to run
 the notebook as-is.
+
+### Hackweek Hub Monitoring
+
+The two hackweeks that were run with Pangeo infrastructure were
+monitored in similar fashions as above. Their user attendance and
+resource usages are plotted with notebooks in the `hackweek-reports/`
+folder. The hubs and their Grafana endpoints are gone now, so the
+plots aren't reproducible.
